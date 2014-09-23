@@ -1,0 +1,25 @@
+body{
+	width: 600px;
+	margin: 0 auto;
+}
+
+.wrapper{
+	background: #f3f3f3;
+	height: 100%;
+	padding: 20px;
+}
+
+h1 {
+	margin: 0;
+}
+
+ul.nav li{
+	border: 1px solid black;
+	padding: 4px;
+	display: inline;
+}
+
+img{
+	height: 200px;
+	width: auto;
+}
