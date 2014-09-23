@@ -1,0 +1,5 @@
+I'd never been on Etsy before, so I was rather blown away by the peacefulness of the design. Aside from the consistent colors and square shapes, the designers did a good job expressing modesty. What I mean by this is that they refrained from adding a flashy navigation bar or any animations. Everything necessary to find your bearings is plainly listed at the top of the page.
+
+To get really nit-picky, the search bar would have looked better without the slight shadow/shine effect. All the other interface elements are plain, solid color so it's a shame to see any inconsistency. Also it would have been nice to see some elements expand when clicked, but mostly I feel that way because I didn't want to have to leave the main page. As you start navigating to other pages the style becomes less peaceful.
+
+Source code is actually readable, with real spaces and indents for most lines. on every page I checked I found multiple logical comment tags like <!--[if IE]>.
