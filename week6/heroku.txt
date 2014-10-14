@@ -1,0 +1,5 @@
+The website Herocu.com features a beautiful blue-and-purple color scheme. I was impressed by the subtle animation shown when hovering over the links. However, it would have made a lot of sense to show some effect when hovering over the menu icon on the top-right. This icon only appears if the browser window is too small to display the menu in one line, which is a nifty feature. When the icon is visible, clicking it will cause the menu to appear on the left side of the screen - seems like they should have put the menu right under the menu icon. At least the menu links have a hover animation.
+
+There's an animated watermark in the background, about halfway down the page. This seemed a little bit gimmicky to me, since the animation only makes it harder to see all the logos in the watermark at once. In a small browser window, some of the logos are never visible.
+
+I chose to use the single-column layout for my personal website. I chose this layout because there's not enough content to warrant a gallery layout, and I can fit my navigation in the footer, so there's no need for a second column.

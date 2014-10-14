@@ -9,6 +9,10 @@ body{
 	padding: 20px;
 }
 
+header, footer{
+	background: #ddd;
+}
+
 h1 {
 	margin: 0;
 }
