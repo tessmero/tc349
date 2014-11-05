@@ -1,0 +1,111 @@
+/*******************
+ * Global
+ */
+/* line 4, sass/application.scss */
+div {
+  height: 400px;
+  display: block;
+  font-family: "arial";
+}
+
+/* line 3, sass/components/_media-grid.scss */
+.media-grid ul {
+  list-style-type: none;
+  background: #846f8d;
+  margin: 0;
+  padding: 0;
+}
+
+/* line 10, sass/components/_media-grid.scss */
+.media-grid li {
+  background: #482955;
+  float: left;
+  height: 200px;
+  width: 20%;
+}
+
+/* line 17, sass/components/_media-grid.scss */
+.media-grid li img {
+  width: 80%;
+  height: auto;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  -webkit-box-shadow: 0px 0px 5px #333333;
+  -moz-box-shadow: 0px 0px 5px #333333;
+  box-shadow: 0px 0px 5px #333333;
+}
+
+/* line 26, sass/components/_media-grid.scss */
+.media-grid li:nth-child(even) {
+  background: #846f8d;
+}
+
+/* line 2, sass/components/_hero-unit.scss */
+.hero-unit {
+  background-color: #593c64;
+  padding-top: 50px;
+}
+
+/* line 7, sass/components/_hero-unit.scss */
+.inner-hero-unit {
+  background-color: #482955;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  color: gainsboro;
+  padding: 20px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+  border-radius: 25px;
+}
+
+/* line 3, sass/components/_masthead.scss */
+.masthead {
+  background-color: #bd92cf;
+}
+
+/* line 7, sass/components/_masthead.scss */
+.masthead img {
+  height: 200px;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+}
+
+/* line 19, sass/components/_masthead.scss */
+.masthead h1 {
+  display: block;
+  text-align: center;
+  padding-top: 25px;
+  text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.6);
+}
+
+/* line 2, sass/components/_about-us-area.scss */
+.about-us-area {
+  padding: 20px;
+  background-color: #d0c8d3;
+  height: 700px;
+}
+
+/* line 8, sass/components/_about-us-area.scss */
+.about-us-area img {
+  height: 200px;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+}
+
+/* line 17, sass/components/_about-us-area.scss */
+.about-us-area section {
+  float: left;
+  width: 40%;
+  padding: 5%;
+}

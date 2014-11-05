@@ -1,0 +1,16 @@
+
+.hero-unit{
+	background-color: rgb(89,60,100);
+	padding-top: 50px;
+}
+ 
+.inner-hero-unit{
+	background-color: rgb(72,41,85);
+	width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+	display: block;
+	color: rgb(220,220,220);
+	padding: 20px;
+  @include border-radius(25px);
+}
