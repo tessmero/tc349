@@ -1,0 +1,15 @@
+/*******************
+ * Global
+ */ 
+div{
+	height: 400px;
+	display: block;
+	font-family: "arial";
+}
+
+@import "compass/css3";
+
+@import "components/_media-grid.scss";
+@import "components/_hero-unit.scss";
+@import "components/_masthead.scss";
+@import "components/_about-us-area.scss";

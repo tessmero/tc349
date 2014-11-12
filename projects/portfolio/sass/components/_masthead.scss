@@ -1,0 +1,24 @@
+
+
+.masthead{
+	background-color: rgb(189,146,207);
+}
+ 
+.masthead img{
+	height: 200px;
+	width: auto;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	padding-top: 50px;
+}
+$default-text-shadow-color: rgba(black, 0.6);
+$default-text-shadow-blur: 3px;
+$default-text-shadow-v-offset: 1px;
+
+.masthead h1{
+	display: block;
+	text-align: center;
+	padding-top: 25px;
+  @include single-text-shadow;
+}
